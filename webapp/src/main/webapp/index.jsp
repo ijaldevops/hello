@@ -2,7 +2,7 @@
 <body>  
 
 Current Time: <%= java.util.Calendar.getInstance().getTime() %>  
-<h1> ---------------------- Simple DevOps Project Hapizal ----------------------   </h1>
+<h1><center> ---------------------- Simple DevOps Project Hapizal ----------------------</center>   </h1>
 <h2>               Deploying on a kubernetes using ansible for Hapizal             </h2>
 <h2>             SIANG testing sampai paham tanggal 27 Des 2019                    </h2> 
 
