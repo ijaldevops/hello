@@ -17,8 +17,6 @@ Unsure which version you need? Specification versions implemented, minimum Java 
 <h1></h1>
 <h2><center> TESTING 27 DEC 2019 MENUJU MALAM </center</h2>
 <h2><center> TESTING 27 DEC 2019 MENUJU MALAM </center</h2>
-<h2><center> TESTING 27 DEC 2019 MENUJU MALAM </center</h2>
-<h2><center> TESTING 27 DEC 2019 MENUJU MALAM </center</h2>
 <h2><center>===========================================================================</center></h2>
 <h2><center>===========================================================================</center></h2>
 <h2><center>===========================================================================</center></h2>
