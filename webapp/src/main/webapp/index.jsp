@@ -5,19 +5,20 @@
 <h1><center> ----------------------------- DEVOPS TESTING JENKINS, TOMCAT, DOCKER, ANSIBLE ------------------------------</center>   </h1>
 <h2><center>               Deploying on a KUBE using ansible for Hapizal            </center> </h2>
 
-<h2><center> TESTING DOCKER 30 DEC 2019 SORE JAM 16.33 </center></h2>
+<h2><center> TESTING DOCKER 30 DEC 2019 SORE JAM 17.33 </center></h2>
 
 
-<h2><center> 
+<h1><center> 
 
 
 
 
-----> mainnode (jenkis) --> ansible (ansible + docker) : 4 tomcat container 
-			--> dockerhost (docker)        : 4 tomcat container
+git----> mainnode (jenkis)      --> ansible (ansible + docker) : 4 tomcat container 
+		        	
+                                --> dockerhost (docker)        : 4 tomcat container
 
 
-</h2></center>
+</h1></center>
 
 <h1></h1>
 <h1></h1>
