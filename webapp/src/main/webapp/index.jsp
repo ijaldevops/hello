@@ -5,6 +5,9 @@
 <h1><center> ----------------------------- DEVOPS TESTING JENKINS, TOMCAT, DOCKER, ANSIBLE ------------------------------</center>   </h1>
 <h2><center>               Deploying on a KUBE using ansible for Hapizal            </center> </h2>
 
+<h2><center> TESTING DOCKER 30 DEC 2019 SORE JAM 16.33 </center></h2>
+
+
 <h3> 
 
 
@@ -16,18 +19,6 @@ Builds can be triggered by various means, for example by commit in a version con
 
 The Jenkins project was originally named Hudson, and was renamed after a dispute with Oracle, which had forked the project and claimed rights to the project name. The Oracle fork, Hudson, continued to be developed for a time before being donated to the Eclipse Foundation. Oracle's Hudson is no longer maintained[6][7] and was announced as obsolete in February 2017
 
-
-</h3>
-
-<h1><center>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!_</center></h1>
-<h2><center> ||||||||||||| TESTING CONTAINER USING ANSBILE PLAYBOOK |||||||||||||||| </center></h2>
-<h1></h1>
-<h1></h1>
-<h2><center>TESTING 30 DEC 2019 SORE jam 16.00 </center</h2>
-<h2><center>TESTING 30 DEC 2019 SORE jam 16.00 </center</h2>
-<h2><center>===========================================================================</center></h2>
-<h2><center>===========================================================================</center></h2>
-<h2><center>===========================================================================</center></h2>
 
 
 
