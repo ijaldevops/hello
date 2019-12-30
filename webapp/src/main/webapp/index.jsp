@@ -12,7 +12,7 @@ Unsure which version you need? Specification versions implemented, minimum Java 
 </h3>
 
 <h1><center>______________________________________________________________________________________</center></h1>
-<h2><center> Testing deploy war file to container using ansible control </center></h2>
+<h2><center> TESTING CONTAINER USING ANSBILE PLAYBOOK </center></h2>
 <h1></h1>
 <h1></h1>
 <h2><center>TESTING 30 DEC 2019 SORE jam 16.00 </center</h2>
