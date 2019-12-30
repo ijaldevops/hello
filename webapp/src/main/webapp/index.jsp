@@ -11,12 +11,12 @@ Unsure which version you need? Specification versions implemented, minimum Java 
 
 </h3>
 
-<h1><center>=================================================================================================</center></h1>
+<h1><center>______________________________________________________________________________________</center></h1>
 <h2><center> Testing deploy war file to container using ansible control </center></h2>
 <h1></h1>
 <h1></h1>
-<h2><center>TESTING 30 DEC 2019 SIANG jam 14.50 </center</h2>
-<h2><center>TESTING 30 DEC 2019 SIANG jam 14.50 </center</h2>
+<h2><center>TESTING 30 DEC 2019 SORE jam 16.00 </center</h2>
+<h2><center>TESTING 30 DEC 2019 SORE jam 16.00 </center</h2>
 <h2><center>===========================================================================</center></h2>
 <h2><center>===========================================================================</center></h2>
 <h2><center>===========================================================================</center></h2>
