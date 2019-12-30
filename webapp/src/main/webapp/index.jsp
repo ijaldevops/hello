@@ -2,7 +2,7 @@
 <body>  
 
 <P ALIGN=RIGHT><b>Current Time: <%= java.util.Calendar.getInstance().getTime() %> </b></P> 
-<h1><center> ----------------------------- Simple DevOps Project Hapizal ------------------------------</center>   </h1>
+<h1><center> ----------------------------- DEVOPS TESTING JENKINS, TOMCAT, DOCKER, ANSIBLE ------------------------------</center>   </h1>
 <h2><center>               Deploying on a kubernetes using ansible for Hapizal            </center> </h2>
 
 <h3> Welcome to the Apache Tomcat® 8.x software download page. This page provides download links for obtaining the latest versions of Tomcat 8.x software, as well as links to the archives of older releases.
