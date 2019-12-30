@@ -13,9 +13,9 @@
 
 
 
-git----> mainnode (jenkis)      --> ansible (ansible + docker) : 4 tomcat container 
+git----> mainnode (jenkins)      --> ansible (ansible + docker) : 4 tomcat container 
 		        	
-                                --> dockerhost (docker)        : 4 tomcat container
+                                 --> dockerhost (docker)        : 4 tomcat container
 
 
 </h1></center>
