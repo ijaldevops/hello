@@ -3,7 +3,7 @@
 
 <P ALIGN=RIGHT><b>Current Time: <%= java.util.Calendar.getInstance().getTime() %> </b></P> 
 <h1><center> ----------------------------- DEVOPS TESTING JENKINS, TOMCAT, DOCKER, ANSIBLE ------------------------------</center>   </h1>
-<h2><center>               Deploying on a kubernetes using ansible for Hapizal            </center> </h2>
+<h2><center>               Deploying on a KUBE using ansible for Hapizal            </center> </h2>
 
 <h3> 
 
@@ -20,7 +20,7 @@ The Jenkins project was originally named Hudson, and was renamed after a dispute
 </h3>
 
 <h1><center>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!_</center></h1>
-<h2><center> TESTING CONTAINER USING ANSBILE PLAYBOOK </center></h2>
+<h2><center> ||||||||||||| TESTING CONTAINER USING ANSBILE PLAYBOOK |||||||||||||||| </center></h2>
 <h1></h1>
 <h1></h1>
 <h2><center>TESTING 30 DEC 2019 SORE jam 16.00 </center</h2>
