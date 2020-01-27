@@ -5,7 +5,7 @@
 <h1><center> ----------------------------- DEVOPS TESTING JENKINS, TOMCAT, DOCKER, ANSIBLE ------------------------------</center>   </h1>
 <h2><center>               Deploying on a KUBE using ansible for Hapizal            </center> </h2>
 
-<h2><center> TESTING DOCKER 2020 9 Jan PAGI </center></h2>
+<h2><center> TESTING KUBE 2020 28 Jan PAGI BUTA </center></h2>
 
 
 <h1><center> 
