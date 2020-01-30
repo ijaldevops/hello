@@ -5,7 +5,7 @@
 <h1><center> ----------------------------- DEVOPS TESTING JENKINS, TOMCAT, DOCKER, ANSIBLE ------------------------------</center>   </h1>
 <h2><center>               Deploying on a KUBE using ansible for Hapizal            </center> </h2>
 
-<h2><center> iiiiii P E R C O B A A N PAKAI MAINNODE SEKALIGUS ANSIBLE SERVER -- TESTING LAGI KUBE 2020 28 Jan PAGI BUTA </center></h2>
+<h2><center> i P E R C O B A A N PAKAI MAINNODE SEKALIGUS ANSIBLE SERVER -- TESTING LAGI KUBE 2020 30 Jan SIANG </center></h2>
 
 
 <h1><center> 
