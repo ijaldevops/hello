@@ -5,7 +5,7 @@
 <h1><center> ----------------------------- DEVOPS TESTING JENKINS, TOMCAT, DOCKER, ANSIBLE ------------------------------</center>   </h1>
 <h2><center>               Deploying on a KUBE using ansible for Hapizal            </center> </h2>
 
-<h2><center> #$*()*#8#9(!( -- TESTING LAGI KUBE 2020 30 Jan SIANG </center></h2>
+<h2><center> TESTING LAGI -- SEBELUM PULANG -- KUBE 2020 30 Jan SIANG </center></h2>
 <h2><center> ==================================================== </center></h2>
 
 <h1><center> 
