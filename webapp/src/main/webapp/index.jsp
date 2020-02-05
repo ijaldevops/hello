@@ -10,22 +10,12 @@
 <h2><center> ::::::: test lagi test lagi !!!!!! TESTING CLUSTER BARU -- KUBE 2020 5 FEB PAGI BUTA </center></h2>
 <h2><center> ==================================================== </center></h2>
 
-<h1><center> 
+<h1><center> ------------------------------git --> manager (maven,jenkins, docekr,ansible) -- image build -- dockerhub  -------------- </center> </h1>
+<h1><center> ------------------------------------------------------------------------------------------------------------------------- </center> </h1>
 
 
 
 
-git --> manager (maven,jenkins, docekr,ansible) -- image build -- dockerhub
-				|					|
-				|					|
-				----> ku0 |				|
-				----> ku1 |-----------------------------
-				----> ku2 |
-
-
-</h1></center>
-
-<h1></h1>
 <h1></h1>
 <h1></h1>
 <h1></h1>
