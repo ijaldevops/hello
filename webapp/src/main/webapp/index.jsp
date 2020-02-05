@@ -2,7 +2,9 @@
 <body>  
 
 <P ALIGN=RIGHT><b>Current Time: <%= java.util.Calendar.getInstance().getTime() %> </b></P> 
-<h1><center> ----------------------------- DEVOPS TESTING JENKINS, TOMCAT, DOCKER, ANSIBLE ------------------------------</center>   </h1>
+<h1><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h1>
+<h1><center> ----------------------------- JENKINS, TOMCAT, DOCKER, ANSIBLE ------------------------------</center>   </h1>
+
 <h2><center>               Deploying on a KUBE using ansible for Hapizal            </center> </h2>
 
 <h2><center> ::::::: test lagi test lagi !!!!!! TESTING CLUSTER BARU -- KUBE 2020 4 FEB PAGI BUTA </center></h2>
