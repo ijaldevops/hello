@@ -15,9 +15,12 @@
 
 
 
-git----> mainnode (jenkins)      --> ansible (ansible + docker) : 4 tomcat container 
-		        	
-                                 --> dockerhost (docker)        : 4 tomcat container
+git --> manager (maven,jenkins, docekr,ansible) -- image build -- dockerhub
+				|					|
+				|					|
+				----> ku0 |				|
+				----> ku1 |-----------------------------
+				----> ku2 |
 
 
 </h1></center>
@@ -28,16 +31,11 @@ git----> mainnode (jenkins)      --> ansible (ansible + docker) : 4 tomcat conta
 <h1></h1>
 
 
-<h1><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h1>
-<h1><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h1>
-<h1><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h1>
-<h1><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h1>
-<h1><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h1>
-<h1><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h1>
-<h1><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h1>
-<h1><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h1>
-<h1><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h1>
-<h1><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h1>
+<h2><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h2>
+<h2><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h2>
+<h2><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h2>
+<h2><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h2>
+<h2><center> ----------------------------- DEVOPS TESTING ------------------------------</center>   </h2>
 
 
 </body>  
